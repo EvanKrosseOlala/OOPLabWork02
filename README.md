@@ -1,0 +1,3 @@
+# OOPLabWork02
+
+Inheritence
